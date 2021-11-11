@@ -1,0 +1,1 @@
+this folder is for the redux store (if you need to manage global state).
